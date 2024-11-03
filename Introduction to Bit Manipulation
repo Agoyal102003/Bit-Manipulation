@@ -1,4 +1,5 @@
 // you should know how to convert from binary to decimal and vice versa(I already know and hence I'm not writing code for this)
+Time Complexity & Space Complexity -> O(1) -> It is extremely fast
 
 1's complement -> write binary of the decimal and then take coompliment of it.
 eg -> 13 -> 1101 
